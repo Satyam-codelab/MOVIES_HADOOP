@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 23 14:44:48 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018b-fb75-e0db-0000034d0550 
+on database directory /mnt/c/Users/SATYAM/OneDrive/Desktop/bigData/Movies-Analytics-in-Spark-and-Scala/Spark_SQL/movies_per_rating/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/opt/spark/spark-3.5.0-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.20.1+1-post-Ubuntu-0ubuntu122.04
+user.dir=/mnt/c/Users/SATYAM/OneDrive/Desktop/bigData/Movies-Analytics-in-Spark-and-Scala/Spark_SQL/movies_per_rating
+os.name=Linux
+os.arch=amd64
+os.version=5.15.133.1-microsoft-standard-WSL2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

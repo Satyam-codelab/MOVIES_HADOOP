@@ -1,0 +1,365 @@
+[33mcommit 75b233760c9cc52959e15519290f11285c71960f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Satyam-codelab <satyamsrivasava24@gmail.com>
+Date:   Fri Nov 24 01:02:53 2023 +0530
+
+    'firstcommit'
+
+[33mcommit b1a42377be3159ce5bb50f6e0e48ab25f9bdd4fc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Wed May 19 14:32:22 2021 +0530
+
+    Fix #2
+
+[33mcommit 0d30bc9e7bfb7b7fb7fed454c30c1a588ed56856[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sun Sep 27 14:55:03 2020 +0530
+
+    URL data import, broadcast variable and Accummulator
+
+[33mcommit ddcd028f989ad71315bbd713716c6ec992b59fc6[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sun Sep 27 14:45:10 2020 +0530
+
+    Added Accumulator, Broadcast and Misc Examples
+
+[33mcommit fdd0bfb831d92aa92e7026d1fb4651ca2280af00[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sun Sep 27 04:10:37 2020 +0530
+
+    Update README.md
+
+[33mcommit 9c2a391e4a5388ee7a38ddd4309e9ea9f6f91198[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Thu Jul 23 15:18:35 2020 +0530
+
+    Update README.md
+
+[33mcommit ed6664c28079b34b7f1e5fe74093524a55eb046e[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Jul 23 15:11:07 2020 +0530
+
+    Restructured Readme
+
+[33mcommit 48f3eff1ada6f993ba5b136cfb349b90d02dde20[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sat Jul 18 03:25:27 2020 +0530
+
+    Updated to Spark SVG
+
+[33mcommit 87ced3147106de8d144c51cca11d02a60c57513c[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Fri Jul 17 21:54:04 2020 +0530
+
+    Added the visitors counter
+
+[33mcommit fe85a8161a3a57568adef7c68564188a664ab00e[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Wed Jul 15 21:14:36 2020 +0530
+
+    Update README.md
+
+[33mcommit 331c1a798eca90e1fdd4717fbc617cdc5eceebe0[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Wed Jul 15 17:58:37 2020 +0530
+
+    Updated to HITS API
+
+[33mcommit d26d67cb3c8b445fbe531120cc8ac3b3a4add143[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Wed Jul 15 02:01:30 2020 +0530
+
+    Update README.md
+
+[33mcommit f45c802247945787b945befb51f335d59ff121aa[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sat Jul 11 16:34:42 2020 +0530
+
+    Update README.md
+
+[33mcommit 3c2850f7cb6d8e1d765ad705b92a1e87189f7ed0[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 11 03:20:19 2020 +0530
+
+    Cleaned Readmes
+
+[33mcommit c25275aff5d9060c4039c427492373964c36e643[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sat Jul 11 03:17:01 2020 +0530
+
+    Update README.md
+
+[33mcommit fa125efe30775e43d74bfbfd0a8e44f3cf02bc92[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 11 03:13:27 2020 +0530
+
+    Fixed .gitignore
+
+[33mcommit 3d7260df43fdff614cd3bf474dc6dcb08677ae62[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 11 03:09:38 2020 +0530
+
+    Reverting the gitignore
+
+[33mcommit 5c2958f46d321442abe84fe3c439486ef24265d8[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 11 03:06:00 2020 +0530
+
+    .gitignore should work now
+
+[33mcommit f3be62a50f9f4f0477eb5cb4ad43fa47d6804cc1[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Jul 9 05:37:25 2020 +0530
+
+    Added prepare ratings.dat
+
+[33mcommit 81268bf4f4ac013a39d50f4f783b3953628ab3fd[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Jul 9 05:30:20 2020 +0530
+
+    Dataframes: users.dat -->Readme
+
+[33mcommit 3557abcfb9686be500929fb7e4d45296a24605f3[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Jul 9 05:28:47 2020 +0530
+
+    Dataframes: users.dat
+
+[33mcommit bc6d48d0745177f50f2e6f1001bbb95f0e3cc791[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Jul 9 04:30:46 2020 +0530
+
+    Added prepare_movies_dat in dataframes
+
+[33mcommit 88e26e350c6d4811b19fbf7f93d3c657aeb56a50[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Jul 9 00:06:55 2020 +0530
+
+    Refactored
+
+[33mcommit cb679fc3ef67d126ca8f8d313f2dc7bbeea5e0cb[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Wed Jul 8 23:58:32 2020 +0530
+
+    Refactor
+
+[33mcommit 9c0af5f750599b37e5fda2a18e3eb24c216cc40a[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Wed Jul 8 23:34:35 2020 +0530
+
+    Updated links and folder name
+
+[33mcommit 3ab99ecf3f42bdbe9c66b3d4f848b4f6b130a070[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Wed Jul 8 23:30:02 2020 +0530
+
+    Added links
+
+[33mcommit 2784a5b93e8b5bce7fa2be4bd12a352783353e55[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Wed Jul 8 23:18:11 2020 +0530
+
+    Update README.md
+
+[33mcommit f2e101af2874820dc99a36bef9f50b22166923f1[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Fri Jul 3 05:03:43 2020 +0530
+
+    Update README.md
+
+[33mcommit 32d1b480d5460b675df9e03ede544f901aaad815[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Fri Jul 3 04:56:28 2020 +0530
+
+    Update README.md
+
+[33mcommit b96a8cc7116a255908641ca779d50fd7ddf440e7[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sun May 3 21:46:23 2020 +0530
+
+    Update README.md
+
+[33mcommit 6cf973523e035b7737d43eaa363a37e189710d39[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Sun May 3 21:41:37 2020 +0530
+
+    Update README.md
+
+[33mcommit 8c8ecdadd597b974559e710669b159f299253d91[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Fri Apr 5 00:02:53 2019 +0530
+
+    Update README.md
+
+[33mcommit f49e0277722b692624444770f891dfb49fcb4c5f[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Fri Apr 5 00:01:48 2019 +0530
+
+    Update README.md
+
+[33mcommit 385573ab41892e175993d9b2c1d1a7b893386d49[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Thu Apr 4 23:58:43 2019 +0530
+
+    Update README.md
+
+[33mcommit 07422d6c85453308a3a067b7f70cbf1201a46aa0[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Thu Mar 28 23:58:57 2019 +0530
+
+    Updated Readme.md
+
+[33mcommit 2680202e3a392420edf876d2e0315f304ad34d4d[m
+Author: Thomas George Thomas <tgt555@gmail.com>
+Date:   Wed Mar 27 23:39:32 2019 +0530
+
+    Update Readme.md
+
+[33mcommit e5e91f5acbf1f7dfca8757b31dbad8af3396cd42[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Sep 20 03:15:47 2018 +0530
+
+    Started cleaning data in dataframes
+
+[33mcommit 750bd9db177f408dff070f948cbcbbb896a57f6c[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Sep 20 01:18:16 2018 +0530
+
+    Added badge
+
+[33mcommit d5af6edffe568fdaaae667240ca31f00287cfb04[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu Sep 20 01:09:00 2018 +0530
+
+     Experimenting with Data Frames
+
+[33mcommit a957c9b7897929939ce978b1058a5f7d79634453[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sun Jul 8 00:22:37 2018 +0530
+
+    Added the 5th query to spark sql
+
+[33mcommit cc7e825efe6bcf8a2ba6a2bb4dbbb245a51b1940[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 7 23:36:12 2018 +0530
+
+    Updated the 4th query in spark SQl
+
+[33mcommit 89e5c8a4c4b344f4d786572671f28651ca95c3fc[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 7 22:03:15 2018 +0530
+
+    Working on 4th sparksql query, still have to complete it
+
+[33mcommit 3a4048a7d1cf23633ab6829a1e37284b67009372[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat Jul 7 20:56:08 2018 +0530
+
+    changed license
+
+[33mcommit 6ee71c4136a13bf5fbfd053cc516cd3d0be3cff1[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Tue May 22 19:36:38 2018 +0530
+
+    Updating readme
+
+[33mcommit 85e53843e0ca27e9ab9103cb366480329639409e[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 19 01:41:04 2018 +0530
+
+    Changed readme
+
+[33mcommit 20c62119d44bfc036d298bdb1af9d30f5cb53de0[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 19 01:33:45 2018 +0530
+
+    Added 3rd query to spark.sql
+
+[33mcommit b0026b35b9b6b6063321d70e73560fcbe63abb7e[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 19 00:33:47 2018 +0530
+
+     Renamed folders, completed spark datalake for movielens
+
+[33mcommit 704c91520cd90d17697d4712fe32a851f897c436[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Fri May 18 23:55:06 2018 +0530
+
+    Changing the datalake idea into a more efficient one
+
+[33mcommit 5ccd4a565ed3ad5310984e37570d2a0e60b504ab[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Tue May 15 04:43:01 2018 +0530
+
+     Made intermediate datalake for now
+
+[33mcommit cc0d2750388afb52eae2dc0b67a952db9a61afaf[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Tue May 15 02:19:11 2018 +0530
+
+    ADded 1st query to Spark DF using SparkSQL
+
+[33mcommit b038e46e22f40e04b40bc7bfc8148b37fb6d0ba8[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Tue May 15 00:00:31 2018 +0530
+
+    starting spark DataFrames
+
+[33mcommit 7afe6f2a59d06f83bf8b6209c284e57c446d5e79[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sun May 13 12:39:16 2018 +0530
+
+    Finished programming in spark RDD
+
+[33mcommit f84e3900dd60c72fd97e2f8ca6ca6c116ca4667f[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 12 12:16:56 2018 +0530
+
+    Added 4th query
+
+[33mcommit 687d92cac8aab09c58b8e12ef74a16404c95c615[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 12 10:45:35 2018 +0530
+
+    Updated Readme.md, starting 4th query
+
+[33mcommit d4cb2841c97be88ce727b6db774d472bbee626b0[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 12 03:27:52 2018 +0530
+
+    Added 3 query result
+
+[33mcommit 1c0ba70238c2dbc1e79149906e45dea9b7c04984[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 12 01:45:48 2018 +0530
+
+    changed readme.md
+
+[33mcommit 9366ddda27d030eb34e4e11da60c69176f3fdd5b[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Sat May 12 01:35:58 2018 +0530
+
+    Solved 2nd query
+
+[33mcommit cc8b46bc4facb4702064af30a8cd4852efd0a972[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu May 10 18:21:52 2018 +0530
+
+    Added license.md
+
+[33mcommit 88dd0abd1bdd07e3d2da80c0e133caeb36a526a6[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu May 10 15:57:26 2018 +0530
+
+    Formatting
+
+[33mcommit 799a6bc0612e7bcda06e4c89bcadd839026932ba[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu May 10 15:41:44 2018 +0530
+
+    Reordered directories
+
+[33mcommit 7a2d060d9fd8e4b7133ada046bf013e8ef7bf61f[m
+Author: Thomas-George-T <tgt555@gmail.com>
+Date:   Thu May 10 13:12:24 2018 +0530
+
+    first commit
